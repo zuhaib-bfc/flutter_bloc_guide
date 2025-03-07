@@ -1,6 +1,6 @@
 # The Complete Guide to flutter_bloc
 
-**Created for:** dev-zuhaib  
+**Created By:** dev-zuhaib  
 **Last updated:** 2025-03-07
 
 ## Table of Contents
